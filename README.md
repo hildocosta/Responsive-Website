@@ -13,12 +13,6 @@
 
 Este projeto é uma parte essencial do meu processo de aprendizado, onde estou aprimorando minhas habilidades em HTML, CSS e JavaScript. A jornada de aprendizado envolve a recriação de sites e a aplicação prática desses conhecimentos para criar experiências web atraentes e funcionais. Este projeto em particular é um exemplo de um site responsivo que construí com as tecnologias da web.
 
-Minha abordagem inicial envolveu a busca de uma Landing Page no Figma, que serviu como ponto de partida.
-https://www.figma.com/file/c5PH7bnIjnfPMwDBuTAgBP/Landing-Page-%7C-One-Page-Website-(Community)?type=design&node-id=2-2&mode=design&t=baOZ26SdhkZuVRS7-0
-
-A partir desse ponto, estou aplicando meu conhecimento e criatividade para recriá-la, adaptando-a para ser responsiva e atraente. Este projeto é uma oportunidade de mergulhar profundamente na criação de sites e aprender as nuances do design web moderno.
-
-
 ## Tecnologias Utilizadas
 
 - HTML
