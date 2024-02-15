@@ -1,7 +1,7 @@
 
 # Website Responsivo
 
-### Website de Viagens Responsivo
+### Website Responsivo
 
 - Design de Website Responsivo usando HTML, CSS e JavaScript.
 - Contém animações ao rolar.
