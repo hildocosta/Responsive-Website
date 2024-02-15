@@ -13,6 +13,8 @@
 
 Este projeto é uma parte essencial do meu processo de aprendizado, onde estou aprimorando minhas habilidades em HTML, CSS e JavaScript. A jornada de aprendizado envolve a recriação de sites e a aplicação prática desses conhecimentos para criar experiências web atraentes e funcionais. Este projeto em particular é um exemplo de um site responsivo que construí com as tecnologias da web.
 
+Nesse projeto, desenvolvi um Web Site de Panificadora, inspirado nos estudos do Canal BedimCode no YouTube. Utilizando as técnicas e conceitos aprendidos, adaptei e personalizei o conteúdo para melhor se adequar ao meu processo de aprendizado. Uma das mudanças significativas foi a substituição de imagens para refletir minha realidade e contexto. Além disso, explorei diversas funcionalidades e métodos do CSS e JavaScript para criar uma experiência web interativa e envolvente. Este projeto representa não apenas uma aplicação prática dos conceitos aprendidos, mas também uma oportunidade de explorar e expandir minhas habilidades na construção de websites responsivos e funcionais.
+
 ## Tecnologias Utilizadas
 
 - HTML
